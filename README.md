@@ -11,6 +11,6 @@ himself based on their integrated intelligence. The 2D GUI is designed using Tki
  width="350" height="250"/><br> 
 <h1>Game Board</h1>
 <img src="https://github.com/Merub-810/Ludo-Game-in-python/assets/131784023/a1ccaf79-fbcf-4c8a-a386-8287e20b6037"
- width="500" height="500"/><br> 
+ width="500" height="400"/><br> 
 
 
